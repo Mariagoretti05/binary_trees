@@ -1,4 +1,4 @@
-  BINARY TREES
+ BINARY TREES
 0.a function that creates a binary tree node
   
   Prototype: binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);
